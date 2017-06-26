@@ -1,71 +1,34 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "技术无止境，折腾是人生"
 header-img: "img/green.jpg"
 ---
 
-
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://os5h88ibe.bkt.clouddn.com/xuxinting_1inch_normal_image.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
-
-###坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-
-###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
+我是徐欣廷，计算机道路上的一个新人。
+不论技术道路还是人生道路，都有许多未知等待发现，也有一些心情希望分享。
+这里是我的后花园，是我的自留地，希望将自己的轨迹和这个空间结合起来，变成以后的留念。
 
 ###代表作：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《》]()
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+- [《》]()
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：雁家(www.xuxinting.cn)](http://www.xuxinting.cn)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@不知道该叫啥了233](http://weibo.com/xuxinting95)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
-
+- [知乎@徐欣廷](https://www.zhihu.com/people/xuxinting9505)
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
 
 
