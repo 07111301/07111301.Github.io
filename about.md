@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 <center>
-    <p><img src="http://os5h88ibe.bkt.clouddn.com/xuxinting_1inch_normal_image.jpg" width=30% height=auto align="center"></p>
+    <p><img src="http://os5h88ibe.bkt.clouddn.com/xuxinting_1inch_normal_image.jpg" width=30% align="center"></p>
 </center>
 
 我是徐欣廷，计算机道路上的一个新人。
