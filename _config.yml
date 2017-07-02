@@ -1,5 +1,5 @@
 # Site settings
-title: 雁家
+title: 雁家-徐欣廷的自留地
 header-img: "img/twitter.jpg"
 tagline: "cn"  
 description: "雁家-徐欣廷的自留地"  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "XuXinting"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
