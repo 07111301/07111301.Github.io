@@ -1,8 +1,8 @@
 # Site settings
-title: 雁家-徐欣廷的自留地
+title: 雁家|徐欣廷的自留地
 header-img: "img/twitter.jpg"
 tagline: "cn"  
-description: "雁家-徐欣廷的自留地"  
+description: "雁家"  
 baseurl: ""
 url: "http://www.xuxinting.cn"  
 
@@ -13,8 +13,7 @@ owner:
   bio: "记录生活，记录人生"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/favicon.ico
 
 douban_username:  
 twitter_username: 
