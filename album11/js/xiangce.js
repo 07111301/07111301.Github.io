@@ -95,11 +95,7 @@
 		$("#pic1").attr("curindex", currentliindex);
 		$(".miaoshu").text(curnexttxt)
 	});
-			/*
-		本代码由素材家园收集并编辑整理;
-		尊重他人劳动成果;
-		转载请保留素材家园链接 - www.sucaijiayuan.com
-		*/
+
 	setblock();
 	function setblock() {
 		var left = $(window).width() / 2 - 125;
@@ -117,7 +113,7 @@
 		$(".endtop").css("display", "none");
 		$(".bodymodal").css("display", "none")
 	});
-	//播放到第一张图片时弹出层点击重
+	//播放到第一张图片时弹出层点击重播
 	$(".replaybtn1").click(function() {
 		$(".firsttop").css("display", "none");
 		$(".bodymodal").css("display", "none")
