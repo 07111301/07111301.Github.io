@@ -14,11 +14,8 @@ header-img: "img/zhihu.jpg"
 ###代表作：
 
 
-- [《》](http://www.jianshu.com/p/6f1404e0240d)
+- [《新的博客空间》](http://www.xuxinting.cn/blog/2017/07/02/new-start/)
 
-- [《》]()
-
-- [《》]()
 
 
 
