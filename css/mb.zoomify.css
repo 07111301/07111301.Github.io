@@ -11,19 +11,19 @@
 }
 
 .zoomIn{
-  cursor:url("../img/zoomin.png"), -moz-zoom-in ;
+  cursor:url("img/zoomin.png"), -moz-zoom-in ;
 }
 
 .zoomOut{
-  cursor: url("../img/zoomout.png"), -moz-zoom-in ;
+  cursor: url("img/zoomout.png"), -moz-zoom-in ;
 }
 
 .move{
-  cursor: url("../img/cursor-hand.png"), -moz-zoom-in !important;
+  cursor: url("img/cursor-hand.png"), -moz-zoom-in !important;
 }
 
 .grab{
-  cursor: url("../img/cursor-grab.png"), -moz-zoom-in !important;
+  cursor: url("img/cursor-grab.png"), -moz-zoom-in !important;
 }
 
 #loader{
@@ -31,7 +31,7 @@
 }
 
 img.zoomify{
-  cursor:url("../img/zoomin.png"), -moz-zoom-in;
+  cursor:url("img/zoomin.png"), -moz-zoom-in;
 }
 
 .zoomControls{
@@ -52,7 +52,7 @@ img.zoomify{
   display: inline-block;
   width: 30px;
   height: 25px;
-  background:   url("../img/zoomin.png") no-repeat center center;
+  background:   url("img/zoomin.png") no-repeat center center;
   cursor: pointer;
   opacity: .5;
   border-right: 1px solid #666;
@@ -62,7 +62,7 @@ img.zoomify{
   display: inline-block;
   width: 30px;
   height: 25px;
-  background:  url("../img/zoomout.png") no-repeat center center;
+  background:  url("img/zoomout.png") no-repeat center center;
   cursor: pointer;
   opacity: .5;
 }
