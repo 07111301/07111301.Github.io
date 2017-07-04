@@ -48,7 +48,10 @@ layout: default
     </div>
 </article>
 
-<!- #include virtual="{{ site.baseurl }}/images-show.html" ->
+<div id="page1"></div>
+<script>
+    $("#page1").load("{{site.baseurl}}/images-show.html");
+</script>
 
 <article>
     <div class="container">
