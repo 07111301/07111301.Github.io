@@ -49,52 +49,52 @@ layout: default
     </div>
 </article>
 
-<body>
-	<div class="wrapper">
-		<div id="screen"></div>
-		<br>
-		
-		<div id="controls">
-			<span class="btn" onclick="$('#screen').mbZoomify_zoom('in')">zoom in</span>
-			<span class="btn" onclick="$('#screen').mbZoomify_zoom('out')">zoom out</span>
-		</div>
-		
-		<div id="thumbs">
-			<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
-			<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">       
-			<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
-			<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
-			<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">       
-			<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-			<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
-			<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
-		</div>
-				
-		<div id="showExp" onclick="if($('.explanation').is(':visible')){ $('.explanation').slideUp();} else {$('.explanation').slideDown();}">?</div>   
-		
-		<br style="clear: both;">
-		
-		<div class="explanation">
-			<h3>How to <img src="/css/zoomin.png"> Zoom in:</h3>
-			1. <b>Double click</b> on the image to <b>zoom in to that point</b>. <br>
-			2. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and <b>click</b> on the image. <br>
-			3. Or hold down the <b>plus</b> key to increment the zoom. <br>
-			4. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and use the <b>mouse wheel</b>.
-			<h3>How to <img src="/css/zoomout.png"> Zoom out:</h3>
-			1. <b>Double click</b> on the zoomed image to <b>zoom out</b>. <br>
-			2. Or hold down the <b>command + alt</b> key (mac) or the <b>ctrl + alt</b> key (Windows) and <b>click</b> on the image. <br>
-			3. Or hold down <b>minus</b> key to decrement the zoom. <br>
-			4. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and use the <b>mouse wheel</b>. 
-		</div>
+
+<div class="wrapper">
+	<div id="screen"></div>
+	<br>
+	
+	<div id="controls">
+		<span class="btn" onclick="$('#screen').mbZoomify_zoom('in')">zoom in</span>
+		<span class="btn" onclick="$('#screen').mbZoomify_zoom('out')">zoom out</span>
 	</div>
-</body>
+		
+	<div id="thumbs">
+		<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
+		<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">       
+		<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
+		<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
+		<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">       
+		<img  src="{{ site.baseurl }}/img/elements/17_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/17_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/18_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/18_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+		<img  src="{{ site.baseurl }}/img/elements/19_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/19_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});"> 
+		<img  src="{{ site.baseurl }}/img/elements/20_lr.jpg"  data-highres="{{ site.baseurl }}/img/elements/20_hr.jpg" onclick="$(this).mbZoomify({screen:'#screen'});">
+	</div>
+				
+	<div id="showExp" onclick="if($('.explanation').is(':visible')){ $('.explanation').slideUp();} else {$('.explanation').slideDown();}">?</div>   
+		
+	<br style="clear: both;">
+		
+	<div class="explanation">
+		<h3>How to <img src="/css/zoomin.png"> Zoom in:</h3>
+		1. <b>Double click</b> on the image to <b>zoom in to that point</b>. <br>
+		2. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and <b>click</b> on the image. <br>
+		3. Or hold down the <b>plus</b> key to increment the zoom. <br>
+		4. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and use the <b>mouse wheel</b>.
+		<h3>How to <img src="/css/zoomout.png"> Zoom out:</h3>
+		1. <b>Double click</b> on the zoomed image to <b>zoom out</b>. <br>
+		2. Or hold down the <b>command + alt</b> key (mac) or the <b>ctrl + alt</b> key (Windows) and <b>click</b> on the image. <br>
+		3. Or hold down <b>minus</b> key to decrement the zoom. <br>
+		4. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and use the <b>mouse wheel</b>. 
+	</div>
+</div>
+
 			  
 <article>
 	<ul class="pager">
