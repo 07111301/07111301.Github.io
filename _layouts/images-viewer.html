@@ -48,13 +48,7 @@ layout: default
     </div>
 </article>
 
-<script type="text/javascript"> 
-	$(document).ready(function() { 
-		$("#button").click(function() { 
-			$("#content").load("{{ site.baseurl }}/images-show.html"); 
-		}); 
-	}); 
-</script> 
+<!- #include virtual="{{ site.baseurl }}/images-show.html" ->
 
 <article>
     <div class="container">
