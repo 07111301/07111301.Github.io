@@ -43,8 +43,13 @@ layout: default
                 {{ content }}
 
                 <hr>
-				
-				<div class="wrapper">
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<div class="wrapper">
 					<div id="screen"></div>
 					<br>
 					<div id="controls">
@@ -84,8 +89,9 @@ layout: default
 						4. Or hold down the <b>command</b> key (mac) or the <b>ctrl key</b> (Windows) and use the <b>mouse wheel</b>. 
 					</div>
 			  </div>
-
-                <ul class="pager">
+			  
+<article>
+	<ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
@@ -97,9 +103,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-            </div>
-        </div>
-    </div>
 </article>
 
 <style>
