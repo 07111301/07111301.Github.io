@@ -86,6 +86,12 @@ span.btn:hover {
   <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
   <script type="text/javascript" src="js/mb.zoomify.js"></script>
   <script type="text/javascript">
+	$(window.parent.document).find("#iframeId").load(function () {
+		var main = $(window.parent.document).find("#iframeId");
+		var thisheight = $(document).height() + 30;
+		main.height(thisheight);
+	});
+  
     $(function(){
 		$("#thumbs").find("img").eq(0).click();
     });
