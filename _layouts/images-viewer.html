@@ -46,12 +46,8 @@ layout: default
 				
 				<div class="gallery">
 					{% for image in page.images_url %}
-					<p>#{{ image }}</p>
+					{{ image }}
 					{% endfor %}
-					<div><a href="{{site.baseurl}}/img/gallery/croatia-660x441.jpg"><img src="{{site.baseurl}}/img/gallery/croatia-69x69.jpg" /></a></div>
-					<div><a href="{{site.baseurl}}/img/gallery/DSC_0008-660x441.jpg"><img src="{{site.baseurl}}/img/gallery/DSC_0008-69x69.jpg" /></a></div>
-					<div><a href="{{site.baseurl}}/img/gallery/DSC_0014-660x441.jpg"><img src="{{site.baseurl}}/img/gallery/DSC_0014-69x69.jpg" /></a></div>
-					<div><a href="{{site.baseurl}}/img/gallery/DSC_0019-660x441.jpg"><img src="{{site.baseurl}}/img/gallery/DSC_0019-69x69.jpg" /></a></div>
 				</div>
 				
 				<script src="{{site.baseurl}}/js/jquery-2.1.4.min.js"></script>
