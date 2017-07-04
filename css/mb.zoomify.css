@@ -118,7 +118,7 @@ img.zoomify{
 #zoomScreen{
   width: 80%;
   height: 80%;
-  background: #000000;
+/*  background: #000000;*/
   /*border: 5px solid rgba(255,255,255,0.3);*/
   border: 5px solid rgba(0,0,0,0.7);
 
