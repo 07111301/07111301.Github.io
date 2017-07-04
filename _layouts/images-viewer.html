@@ -43,10 +43,18 @@ layout: default
                 {{ content }}
 
                 <hr>
-				
-				<object style="border:1px" type="text/x-scriptlet" data="{{ site.baseurl }}/images-show.html" width=100% ></object>
+            </div>
+        </div>
+    </div>
+</article>
 
-                <ul class="pager">
+<object style="border:1px" type="text/x-scriptlet" data="{{ site.baseurl }}/images-show.html" width=100% ></object>
+
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
+			<ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
