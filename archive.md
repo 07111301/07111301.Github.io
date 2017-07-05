@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "技术无止境"
+description: "所有的文章"
 header-img: "img/orange.jpg"
 ---
 
