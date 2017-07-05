@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "技术上的一大步"
+description: "非常重要的页面"
 header-img: "img/zhihu.jpg"
 ---
 
@@ -11,9 +11,7 @@ header-img: "img/zhihu.jpg"
 </center>
 
 
-###代表作：
-
-
+###值得看的页面：
 - [《新的博客空间》](http://www.xuxinting.cn/blog/2017/07/02/new-start/)
 
 

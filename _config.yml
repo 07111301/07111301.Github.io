@@ -1,16 +1,16 @@
 # Site settings
-title: 雁家|徐欣廷的自留地
+title: 永远的07111301
 header-img: "img/twitter.jpg"
 tagline: "cn"  
-description: "雁家"  
+description: "07111301"  
 baseurl: ""
-url: "http://www.xuxinting.cn"  
+url: "http://www.07111301.com"  
 
 # About/contact
 owner: 
   name: " XuXinting"
   email: xxt.no1@gmail.com
-  bio: "记录生活，记录人生"
+  bio: "怀念一起度过的四年"
 
 # Data
 favicon: img/favicon.ico
