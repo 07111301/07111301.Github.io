@@ -5,7 +5,6 @@ date: 2017-07-06
 categories: blog
 tags: [心情]
 description: 为什么要搭建这个小站
-custom_music_id:436514312
 ---
 
 <h3>#起因</h3>
