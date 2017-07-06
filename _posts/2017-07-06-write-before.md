@@ -7,7 +7,7 @@ tags: [心情]
 description: 为什么要搭建这个小站
 ---
 <div>
-	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=436514312&auto=1&height=66"></iframe>
+	<embed src="//music.163.com/style/swf/widget.swf?sid=436514312&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 </div>
 
 <h3>#起因</h3>
