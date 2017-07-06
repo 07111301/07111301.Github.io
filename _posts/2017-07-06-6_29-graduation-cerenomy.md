@@ -36,18 +36,18 @@ description: 375984
 
 <h3>#原图下载</h3>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.jpg" target="_blank" style="color: blue">暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.JPG" target="_blank" style="color: blue">暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/DuTianye.jpg" target="_blank" style="color: blue">杜田野</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/DuTianye.JPG" target="_blank" style="color: blue">杜田野</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/LvXueqi.jpg" target="_blank" style="color: blue">吕雪琪</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/LvXueqi.JPG" target="_blank" style="color: blue">吕雪琪</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/SongGe_HanJie_SiEnze.jpg" target="_blank" style="color: blue">宋歌、韩捷、司恩泽</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/SongGe_HanJie_SiEnze.JPG" target="_blank" style="color: blue">宋歌、韩捷、司恩泽</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/TanZhaonian.jpg" target="_blank" style="color: blue">谈兆年</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/TanZhaonian.JPG" target="_blank" style="color: blue">谈兆年</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/WangRui_WuDi_WangXingpan_TanZhaonian.jpg" target="_blank" style="color: blue">王睿、武迪、王兴攀、谈兆年</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/WangRui_WuDi_WangXingpan_TanZhaonian.JPG" target="_blank" style="color: blue">王睿、武迪、王兴攀、谈兆年</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/XuXinting_XiangYixi_LiAnmin.jpg" target="_blank" style="color: blue">徐欣廷、向贻锡、李安民</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/XuXinting_XiangYixi_LiAnmin.JPG" target="_blank" style="color: blue">徐欣廷、向贻锡、李安民</a>
 
-<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/YangZhishui.jpg" target="_blank" style="color: blue">杨知水</a></div><br>
+<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/YangZhishui.JPG" target="_blank" style="color: blue">杨知水</a>
