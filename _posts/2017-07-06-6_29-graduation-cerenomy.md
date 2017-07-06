@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: images-viewer
 title: 毕业典礼
 date: 2017-07-06
 categories: blog
