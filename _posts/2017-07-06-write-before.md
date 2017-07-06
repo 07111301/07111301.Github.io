@@ -6,11 +6,9 @@ categories: blog
 tags: [心情]
 description: 为什么要搭建这个小站
 ---
-<center>
-	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=436514312&auto=1&height=66"></iframe>
-</center>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=436514312&auto=1&height=66"></iframe>
 
-#起因
+<h3>#起因</h3>
 
 应该会有很多人不解，为什么要搭建这个小网站？不仅速度慢，UI也丑到爆！
 
@@ -22,7 +20,7 @@ description: 为什么要搭建这个小站
 
 从这一刻开始，一切都变得不同。
 
-#灵感
+<h3>#灵感</h3>
 
 相片，过去时光的记录，记下了我们过去的欢乐和悲伤。
 
@@ -32,7 +30,7 @@ description: 为什么要搭建这个小站
 
 于是，我注册了07111301.com和07111301.org这两个域名，当你怀念起这段时光后，可以通过这个简单的数字，寻找会昔日的幸福。
 
-#悉知
+<h3>#悉知</h3>
 
 由于该网站采用了静态页面，因此不具备数据库的接入能力，带来的效果和功能比较有限。请各位亲原谅::>_<::
 
