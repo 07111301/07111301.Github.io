@@ -1,0 +1,47 @@
+---
+layout: post
+title: 写在开始的话
+date: 2017-07-06
+categories: blog
+tags: [心情]
+description: 为什么要搭建这个小站
+---
+<center>
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=436514312&auto=1&height=66"></iframe>
+</center>
+
+#起因
+
+应该会有很多人不解，为什么要搭建这个小网站？不仅速度慢，UI也丑到爆！
+
+我想，如果非要找一个理由的话，只能是<b>个人情结</b>了。
+
+当毕业典礼结束，我们应该会有这种感觉：<b>体育馆里3000多号人，有很大一部分可能今生都不会再遇见了</b>。
+
+在《成都》这个背景音乐响起时，曾经一起喝过的酒，一起吹过的牛，都变成记忆里的一个片段。当熟悉的宿舍楼随着挚友的离去而黯淡，当使用了四年的校园卡再也无法被母校的机器识别，当踏上离去的地铁……
+
+从这一刻开始，一切都变得不同。
+
+#灵感
+
+相片，过去时光的记录，记下了我们过去的欢乐和悲伤。
+
+也许几年以后，我们现在热衷的网盘等工具都在互联网的变革中消逝。
+也许那时，Github也会因为种种原因离我们而去。
+也许，也许，有些人只剩下这几张合影/(ㄒoㄒ)/~~
+
+于是，我注册了07111301.com和07111301.org这两个域名，当你怀念起这段时光后，可以通过这个简单的数字，寻找会昔日的幸福。
+
+#悉知
+
+由于该网站采用了静态页面，因此不具备数据库的接入能力，带来的效果和功能比较有限。请各位亲原谅::>_<::
+
+该网站托管在Github上，地址为 <a href="https://github.com/07111301/07111301.github.io" title="Jump to Github" target="_blank" style="color: blue"> 点我访问 </a> 
+
+希望在网站中进行发布或者修改的亲，请联系<a href="mailto:xuxinting1995523@qq.com?subject=Add%20author%20to%2007111301" title="给他发邮件" target="_blank" style="color: red"> 徐欣廷 </a>，将自己的Github账号添加进来，大家一起建设。
+
+域名和CDN空间的维护，是一件细水长流的事情，如果各位亲有能力帮助这个网站变得更好，请扫描一下二维码，贡献自己的一份力量。谢谢。
+
+<center>
+    <p><img src="{{ site.baseurl }}/img/about/donate.jpg" align="center"></p>
+</center>
