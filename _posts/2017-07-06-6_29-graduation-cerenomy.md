@@ -25,13 +25,13 @@ description: 375984
 
 <div class="gallery">
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.jpg" />暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a></div>
-	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/DuTianye.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/DuTianye.jpg" />杜田野</a></div>
+	<div><a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/hr/DuTianye.jpg"><img src="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/lr/DuTianye.jpg" />杜田野</a></div>
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/LvXueqi.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/LvXueqi.jpg" />吕雪琪</a></div>
-	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/SongGe_HanJie_SiEnze.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/SongGe_HanJie_SiEnze.jpg" />宋歌、韩捷、司恩泽</a></div>
+	<div><a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/hr/SongGe_HanJie_SiEnze.jpg"><img src="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/lr/SongGe_HanJie_SiEnze.jpg" />宋歌、韩捷、司恩泽</a></div>
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/TanZhaonian.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/TanZhaonian.jpg" />谈兆年</a></div>
-	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/WangRui_WuDi_WangXingpan_TanZhaonian.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/WangRui_WuDi_WangXingpan_TanZhaonian.jpg" />王睿、武迪、王兴攀、谈兆年</a></div>
+	<div><a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/hr/WangRui_WuDi_WangXingpan_TanZhaonian.jpg"><img src="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/lr/WangRui_WuDi_WangXingpan_TanZhaonian.jpg" />王睿、武迪、王兴攀、谈兆年</a></div>
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/XuXinting_XiangYixi_LiAnmin.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/XuXinting_XiangYixi_LiAnmin.jpg" />徐欣廷、向贻锡、李安民</a></div>
-	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/YangZhishui.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/YangZhishui.jpg" />杨知水</a></div>
+	<div><a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/hr/YangZhishui.jpg"><img src="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/lr/YangZhishui.jpg" />杨知水</a></div>
 </div>
 
 
@@ -42,16 +42,16 @@ description: 375984
 
 <a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.JPG" target="_blank" style="color: blue">暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a>
 
-<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/DuTianye.JPG" target="_blank" style="color: blue">杜田野</a>
+<a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/real/DuTianye.JPG" target="_blank" style="color: blue">杜田野</a>
 
 <a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/LvXueqi.JPG" target="_blank" style="color: blue">吕雪琪</a>
 
-<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/SongGe_HanJie_SiEnze.JPG" target="_blank" style="color: blue">宋歌、韩捷、司恩泽</a>
+<a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/real/SongGe_HanJie_SiEnze.JPG" target="_blank" style="color: blue">宋歌、韩捷、司恩泽</a>
 
 <a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/TanZhaonian.JPG" target="_blank" style="color: blue">谈兆年</a>
 
-<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/WangRui_WuDi_WangXingpan_TanZhaonian.JPG" target="_blank" style="color: blue">王睿、武迪、王兴攀、谈兆年</a>
+<a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/real/WangRui_WuDi_WangXingpan_TanZhaonian.JPG" target="_blank" style="color: blue">王睿、武迪、王兴攀、谈兆年</a>
 
 <a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/XuXinting_XiangYixi_LiAnmin.JPG" target="_blank" style="color: blue">徐欣廷、向贻锡、李安民</a>
 
-<a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/YangZhishui.JPG" target="_blank" style="color: blue">杨知水</a>
+<a href="http://oso00lm7b.bkt.clouddn.com/07111301/06.29_ceremony/real/YangZhishui.JPG" target="_blank" style="color: blue">杨知水</a>
