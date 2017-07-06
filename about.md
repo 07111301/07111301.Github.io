@@ -6,6 +6,11 @@ header-img: "img/green.jpg"
 ---
 ###写在前面的话
 
+<center>
+    <p><img src="http://os5h88ibe.bkt.clouddn.com/07111301/all_of_us/lr/2017-06-28-central-garden-lr.JPG" align="center"></p>
+	<a href="http://os5h88ibe.bkt.clouddn.com/07111301/all_of_us/hr/2017-06-28-central-garden-hr.JPG" title="Jump to the source Image.">查看原图</a>
+</center>
+
 进入这个小站的访问者，你好。
 	
 也许您想知道为什么会存在这个网站，就让我为您讲述这个网站背后的故事。<b>07111301</b>，是北京理工大学计算机学院2013级一班的班号，在四年的时光中，我们和这个数字形影不离。不过毕业总会到来，曲终总会离散，我们一行人在2017年6月毕业了。
