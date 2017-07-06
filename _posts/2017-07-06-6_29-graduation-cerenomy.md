@@ -21,6 +21,8 @@ description: 375984
 
 <h3>#相册集</h3>
 
+<br>
+
 <div class="gallery">
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.jpg" />暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a></div>
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/DuTianye.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/DuTianye.jpg" />杜田野</a></div>
@@ -32,7 +34,9 @@ description: 375984
 	<div><a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/hr/YangZhishui.jpg"><img src="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/lr/YangZhishui.jpg" />杨知水</a></div>
 </div>
 
-<hr>
+
+<br>
+
 
 <h3>#原图下载</h3>
 
