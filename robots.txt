@@ -1,0 +1,52 @@
+User-agent: Baiduspider
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+User-agent: Googlebot
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+User-agent: 360Spider
+
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+
+User-agent: msnbot
+
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+User-agent: Sosospider
+
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+User-agent: YoudaoBot
+
+Allow: /
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
