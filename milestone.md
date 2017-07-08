@@ -12,7 +12,7 @@ header-img: "img/zhihu.jpg"
 
 
 ###值得看的页面：
-- [《新的博客空间》](http://www.xuxinting.cn/blog/2017/07/02/new-start/)
+- [《写在开始的话》](http://07111301.com/blog/2017/07/06/write-before/)
 
 
 
