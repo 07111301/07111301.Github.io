@@ -1,16 +1,12 @@
 ---
-layout: post
+layout: video-viewer-youku
 title: 班级纪念视频
 date: 2017-07-14
 categories: blog
 tags: [心情]
-description: 
+description: XMjg5MjA3ODQ1Mg
 ---
 <h3>###我们的纪念视频</h3>
-
-<center>
-    <embed src='http://player.youku.com/player.php/sid/XMjg5MjA3ODQ1Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-</center>
 
 ###说明
 
