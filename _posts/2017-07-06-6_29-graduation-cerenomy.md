@@ -7,7 +7,7 @@ tags: [图片]
 description: 375984
 ---
 
-<h3>#今天，毕业啦</h3>
+## 今天，毕业啦
 
 <b>2017年6月29日</b>，北京理工大学毕业典礼召开。
 
@@ -15,11 +15,11 @@ description: 375984
 
 如果你在下方找到了青涩的自己，或者看见了熟悉的面容，没错，这就是你的青春。
 
-<h3>#使用方法</h3>
+#使用方法
 
 点击下方的缩略图，将会弹出压缩过的中等图片，在下方也会贴出原图的链接，可以根据自己网络情况进行使用。
 
-<h3>#相册集</h3>
+## 相册集
 
 <br />
 
@@ -38,7 +38,7 @@ description: 375984
 <br />
 <br />
 
-<h3>#原图下载</h3>
+## 原图下载
 
 <a href="http://os5h88ibe.bkt.clouddn.com/07111301/06.29_ceremony/real/BaoYuxiang_ShenMeiying_NingShuofu_KongXinyi_XingBowen_WangYan.JPG" target="_blank" style="color: blue">暴宇翔、申美莹、宁硕夫、孔馨仪、邢博文、王妍</a>
 
