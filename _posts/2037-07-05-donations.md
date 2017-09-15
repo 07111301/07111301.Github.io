@@ -1,3 +1,4 @@
+---
 layout: post
 title: 网站捐款公示
 date: 2017-09-15
