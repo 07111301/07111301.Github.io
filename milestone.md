@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    
+
 </center>
 
 
@@ -19,3 +19,5 @@ header-img: "img/zhihu.jpg"
 - [《永远的07111301》](http://www.07111301.com/blog/2017/07/09/forever-07111301/)
 
 - [《班级纪念视频》](http://www.07111301.com/blog/2017/07/14/video-of-us/)
+
+- [《捐款公示》](http://07111301.com/blog/2017/09/15/donations/)
