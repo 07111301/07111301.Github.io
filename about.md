@@ -27,9 +27,9 @@ header-img: "img/green.jpg"
 
 - [Github地址](https://github.com/07111301/07111301.github.io)
 
-- 域名(07111301.com)有效期 2017-06-30 ~ 2019-06-30
+- 域名(07111301.com)有效期 2017-06-30 ~ 2022-06-30
 
-- 域名(07111301.com)有效期 2017-06-30 ~ 2018-06-30
+- 域名(~~07111301.com~~)有效期 2017-06-30 ~ 2019-06-30
 
 ## 联系（维护者）
 
@@ -47,7 +47,7 @@ header-img: "img/green.jpg"
 如果您有能力帮助维护这个站点，请扫描以下的二维码，贡献自己的一份力量。
 
 <center>
-    <p><img src="{{ site.baseurl }}/img/about/donate.jpg" align="center"></p>
+    <p><img src="{{ site.baseurl }}/gallary/about/donate.jpg" align="center"></p>
 </center>
 
 
