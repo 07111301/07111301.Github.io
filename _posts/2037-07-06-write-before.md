@@ -27,7 +27,7 @@ description: 436514312
 也许那时，Github也会因为种种原因离我们而去。
 也许，也许，有些人只剩下这几张合影/(ㄒoㄒ)/~~
 
-于是，我注册了07111301.com和07111301.org这两个域名，当你怀念起这段时光后，可以通过这个简单的数字，寻找会昔日的幸福。
+于是，我注册了07111301.com和~~07111301.org~~这两个域名，当你怀念起这段时光后，可以通过这个简单的数字，寻找会昔日的幸福。
 
 ## 悉知
 
@@ -40,5 +40,5 @@ description: 436514312
 域名和CDN空间的维护，是一件细水长流的事情，如果各位亲有能力帮助这个网站变得更好，请扫描一下二维码，贡献自己的一份力量。谢谢。
 
 <center>
-    <p><img src="{{ site.baseurl }}/img/about/donate.jpg" align="center"></p>
+    <p><img src="{{ site.baseurl }}/gallary/about/donate.jpg" align="center"></p>
 </center>

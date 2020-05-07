@@ -7,8 +7,8 @@ header-img: "img/green.jpg"
 ## 写在前面的话
 
 <center>
-    <p><img src="http://07111301.xuxinting.cn/07111301/all_of_us/lr/2017-06-28-central-garden-lr.JPG" align="center"></p>
-	<a href="http://07111301.xuxinting.cn/07111301/all_of_us/hr/2017-06-28-central-garden-hr.JPG" title="Jump to the source Image." target="_blank" style="color: blue">查看原图</a>
+    <p><img src="{{ site.baseurl }}/gallary/all_of_us/lr/2017-06-28-central-garden-lr.JPG" align="center"></p>
+	<a href="{{ site.baseurl }}/gallary/all_of_us/hr/2017-06-28-central-garden-hr.JPG" title="Jump to the source Image." target="_blank" style="color: blue">查看原图</a>
 </center>
 
 进入这个小站的访问者，你好。

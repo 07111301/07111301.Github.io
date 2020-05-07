@@ -23,18 +23,18 @@ author:
 
 
 <div class="gallery">
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img1.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img1.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img2.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img2.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img3.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img3.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img4.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img4.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img5.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img5.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img6.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img6.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img7.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img7.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img8.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img8.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img9.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img9.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img10.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img10.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img11.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img11.jpg" /></a></div>
-	<div><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img12.jpg"><img src="http://07111301.xuxinting.cn/07111301/deyukaiti/images/img12.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img1.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img1.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img2.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img2.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img3.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img3.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img4.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img4.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img5.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img5.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img6.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img6.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img7.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img7.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img8.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img8.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img9.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img9.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img10.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img10.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img11.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img11.jpg" /></a></div>
+	<div><a href="{{ site.baseurl }}/gallary/deyukaiti/images/img12.jpg"><img src="{{ site.baseurl }}/gallary/deyukaiti/images/img12.jpg" /></a></div>
 </div>
 
 
@@ -50,45 +50,45 @@ author:
 	  <td>姓  名</td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120121861-HuangZeyu.ppt" target="_blank" style="color: blue">黄泽宇</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120121861-HuangZeyu.ppt" target="_blank" style="color: blue">黄泽宇</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131743-TanZhaonian.ppt" target="_blank" style="color: blue">谈兆年</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131743-TanZhaonian.ppt" target="_blank" style="color: blue">谈兆年</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131744-LiuZihang.ppt" target="_blank" style="color: blue">刘子航</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131744-LiuZihang.ppt" target="_blank" style="color: blue">刘子航</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131745-WangYan.ppt" target="_blank" style="color: blue">王  妍</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131745-WangYan.ppt" target="_blank" style="color: blue">王  妍</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131746-YangZhishui.pptx" target="_blank" style="color: blue">杨知水</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131746-YangZhishui.pptx" target="_blank" style="color: blue">杨知水</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131747-LiChangyang.pptx" target="_blank" style="color: blue">李昌洋</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131747-LiChangyang.pptx" target="_blank" style="color: blue">李昌洋</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131748-ZhongFeiwen.ppt" target="_blank" style="color: blue">钟飞文</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131748-ZhongFeiwen.ppt" target="_blank" style="color: blue">钟飞文</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131749-KongXinyi.pptx" target="_blank" style="color: blue">孔馨仪</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131749-KongXinyi.pptx" target="_blank" style="color: blue">孔馨仪</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131750-LiHaoqi.pptx" target="_blank" style="color: blue">李皓奇</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131750-LiHaoqi.pptx" target="_blank" style="color: blue">李皓奇</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131751-HanJie.ppt" target="_blank" style="color: blue">韩  捷</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131751-HanJie.ppt" target="_blank" style="color: blue">韩  捷</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131752-WeiXiaoxiang.pptx" target="_blank" style="color: blue">魏晓翔</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131752-WeiXiaoxiang.pptx" target="_blank" style="color: blue">魏晓翔</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131753-XingBowen.pptx" target="_blank" style="color: blue">邢博文</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131753-XingBowen.pptx" target="_blank" style="color: blue">邢博文</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131754-WangXingpan.ppt" target="_blank" style="color: blue">王兴攀</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131754-WangXingpan.ppt" target="_blank" style="color: blue">王兴攀</a></td>
 	</tr>
 	<tr>
-	  <td><a href="http://07111301.xuxinting.cn/07111301/deyukaiti/file/07011301-1120131755-ZhangLei.pptx" target="_blank" style="color: blue">张  磊</a></td>
+	  <td><a href="{{ site.baseurl }}/gallary/deyukaiti/file/07011301-1120131755-ZhangLei.pptx" target="_blank" style="color: blue">张  磊</a></td>
 	</tr>
 </table>
