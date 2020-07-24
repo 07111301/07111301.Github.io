@@ -96,3 +96,10 @@ description: 570218574
 	<div><a href="http://gitee.com/XintingXu/Images-07111301-degree/raw/master/shortcuts/DSCN1834.JPG"><img src="http://gitee.com/XintingXu/Images-07111301-degree/raw/master/shortcuts/DSCN1834.JPG" /></a></div>
 	<div><a href="http://gitee.com/XintingXu/Images-07111301-degree/raw/master/shortcuts/DSCN1839.JPG"><img src="http://gitee.com/XintingXu/Images-07111301-degree/raw/master/shortcuts/DSCN1839.JPG" /></a></div>
 </div>
+
+
+<br />
+<br />
+
+## 原图链接
+<a href="http://gitee.com/XintingXu/Images-07111301-degree" target="_blank" style="color: blue"> 仓库地址 </a>

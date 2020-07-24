@@ -24,3 +24,10 @@ description: 28387594
 	<div><a href="https://gitee.com/XintingXu/Images-07111301-daily/raw/master/shortcuts/DSCN0505.JPG"><img src="http://gitee.com/XintingXu/Images-07111301-daily/raw/master/shortcuts/DSCN0505.JPG" /></a></div>
 	<div><a href="https://gitee.com/XintingXu/Images-07111301-daily/raw/master/shortcuts/DSCN0506.JPG"><img src="http://gitee.com/XintingXu/Images-07111301-daily/raw/master/shortcuts/DSCN0506.JPG" /></a></div>
 </div>
+
+
+<br />
+<br />
+
+## 原图链接
+<a href="http://gitee.com/XintingXu/Images-07111301-daily" target="_blank" style="color: blue"> 仓库地址 </a>
